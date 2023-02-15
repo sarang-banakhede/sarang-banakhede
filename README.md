@@ -31,7 +31,7 @@
                                  <p align="center"> -------------------------------------------------------------------------------</p> 
                 <h3 align="center">Connect with me:</h3>
                                  <p align="center">
-                                 <a href="https://linkedin.com/in/sarang banakhede" target="blank"><img align="center" src="https://brandeps.com/icon-download/L/Linkedin-icon-vector-13.svg" alt="sarang banakhede" height="30" width="40" /></a>
+                                 <a href="www.linkedin.com/in/sarang-banakhede-79327823a" target="blank"><img align="center" src="https://brandeps.com/icon-download/L/Linkedin-icon-vector-13.svg" alt="sarang banakhede" height="30" width="40" /></a>
                                  <a href="https://kaggle.com/sarang banakhede" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="sarang banakhede" height="30" width="40" /></a>
                                  <a href="https://instagram.com/_sarang_this_side_" target="blank"><img align="center" src="https://brandeps.com/logo-download/I/Instagram-Icon-logo-vector-01.svg" alt="_sarang_this_side_" height="30" width="40" /></a>
                                  <a href="https://www.codechef.com/users/sarang_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarang_2002" height="30" width="40" /></a>
