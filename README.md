@@ -6,7 +6,6 @@
   <header>
     <div class="container">
       <h1>Sarang Banakhede</h1>
-      <h2>Data Science || Machine leaning || Deep learning || Data analysis </h2>
     </div>
   </header>
   <main>
