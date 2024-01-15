@@ -16,7 +16,6 @@
       <h2>Connect with me</h2>
       <p>
         <a href="https://www.linkedin.com/in/sarang-banakhede-79327823a/"><img src="https://brandeps.com/icon-download/L/Linkedin-icon-vector-13.svg" alt="sarang banakhede" height="30" width="40" /></a>
-        <a href="https://kaggle.com/sarang banakhede"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="sarang banakhede" height="30" width="40" /></a>
       </p>
     </section>
   </main>
